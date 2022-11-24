@@ -1,1 +1,1 @@
-Key.shift_r[SHIFT]Key.esc
+Kkeylog testestestestew
