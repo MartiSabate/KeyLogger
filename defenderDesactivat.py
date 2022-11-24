@@ -2,7 +2,7 @@
 from pynput.keyboard import Key
 from pynput.keyboard import Listener
 
-# creating an empty list to store pressed keys
+# creating an empty list to store pressed keyss
 the_keys = []
 
 
