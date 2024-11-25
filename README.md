@@ -1,6 +1,4 @@
-KeyLogger written in Python 3.10 4 fun :D
-
-This project is on continous construction so please consider reporting any error and I'll try to solve it asap!
+KeyLogger written in Python 3.10 just made when I was bored
 
 Please be responsible and use this tool for your projects but never for invading other people privacy.
 
